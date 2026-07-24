@@ -1,0 +1,1242 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "2EF06B95",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "6752971054",
+      "localizations" : [
+        {
+          "description" : "Lägg till 500.000 AI-tokens på ditt konto.",
+          "displayName" : "500K AI Token-paket",
+          "locale" : "sv"
+        },
+        {
+          "description" : "Přidejte 500.000 AI tokenů na svůj účet.",
+          "displayName" : "Balíček 500K AI tokenů",
+          "locale" : "cs"
+        },
+        {
+          "description" : "أضف 500,000 رمز AI إلى حسابك.",
+          "displayName" : "حزمة 500 ألف رمز AI",
+          "locale" : "ar"
+        },
+        {
+          "description" : "เพิ่ม 500,000 โทเค็น AI ในบัญชีของคุณ",
+          "displayName" : "แพ็ก 500K โทเค็น AI",
+          "locale" : "th"
+        },
+        {
+          "description" : "Afegeix 500.000 de tokens AI al teu compte.",
+          "displayName" : "Paquet de 500K Tokens AI",
+          "locale" : "ca"
+        },
+        {
+          "description" : "Dodaj 500.000 tokenów AI do swojego konta.",
+          "displayName" : "Pakiet 500K Tokenów AI",
+          "locale" : "pl"
+        },
+        {
+          "description" : "Tambahkan 500,000 token AI ke akaun anda.",
+          "displayName" : "Pek 500K Token AI",
+          "locale" : "ms"
+        },
+        {
+          "description" : "अपने खाते में 500,000 AI टोकन जोड़ें।",
+          "displayName" : "500K AI टोकन पैक",
+          "locale" : "hi"
+        },
+        {
+          "description" : "Ajoutez 500 000 jetons AI à votre compte.",
+          "displayName" : "Forfait de 500K jetons AI",
+          "locale" : "fr_CA"
+        },
+        {
+          "description" : "Додайте 500.000 AI токенів до свого акаунта.",
+          "displayName" : "Пакет 500K AI токенів",
+          "locale" : "uk"
+        },
+        {
+          "description" : "将 500,000 个 AI 代币添加到您的账户。",
+          "displayName" : "50万 AI 代币包",
+          "locale" : "zh_Hans"
+        },
+        {
+          "description" : "Add 500,000 AI tokens to your account.",
+          "displayName" : "500K AI Token Pack",
+          "locale" : "en_AU"
+        },
+        {
+          "description" : "500 000 AI токенін аккаунтыңызға қосыңыз.",
+          "displayName" : "500K AI Токен Пакеті",
+          "locale" : "es_MX"
+        },
+        {
+          "description" : "Add 500,000 AI tokens to your account.",
+          "displayName" : "500K AI Token Pack",
+          "locale" : "en_CA"
+        },
+        {
+          "description" : "Hesabınıza 500.000 AI jetonu ekleyin.",
+          "displayName" : "500K AI Jeton Paketi",
+          "locale" : "tr"
+        },
+        {
+          "description" : "500,000 AI 토큰을 계정에 추가하세요.",
+          "displayName" : "50만 AI 토큰 팩",
+          "locale" : "ko"
+        },
+        {
+          "description" : "Προσθέστε 500.000 AI tokens στον λογαριασμό σας.",
+          "displayName" : "Πακέτο 500K AI Tokens",
+          "locale" : "el"
+        },
+        {
+          "description" : "חבילת חצי מיליון אסימוני AI",
+          "displayName" : "500K חבילת אסימוני AI",
+          "locale" : "he"
+        },
+        {
+          "description" : "500,000 の AI トークンをアカウントに追加します。",
+          "displayName" : "50万 AI トークンパック",
+          "locale" : "ja"
+        },
+        {
+          "description" : "Tambahkan 500.000 token AI ke akun Anda.",
+          "displayName" : "Paket 500K Token AI",
+          "locale" : "id"
+        },
+        {
+          "description" : "Lisää 500.000 AI-tokenia tilillesi.",
+          "displayName" : "500K AI-tokenpaketti",
+          "locale" : "fi"
+        },
+        {
+          "description" : "Tilføj 500.000 AI tokens til din konto.",
+          "displayName" : "500K AI Token-pakke",
+          "locale" : "da"
+        },
+        {
+          "description" : "Thêm 500.000 token AI vào tài khoản của bạn.",
+          "displayName" : "Gói 500K Token AI",
+          "locale" : "vi"
+        },
+        {
+          "description" : "Pridajte 500.000 AI tokenov na svoj účet.",
+          "displayName" : "Balíček 500K AI tokenov",
+          "locale" : "sk"
+        },
+        {
+          "description" : "Adicione 500.000 tokens AI à sua conta.",
+          "displayName" : "Pacote de 500K Tokens AI",
+          "locale" : "pt_PT"
+        },
+        {
+          "description" : "Add 500K AI tokens to your account.",
+          "displayName" : "500K AI Token Pack",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Adj hozzá 500.000 AI tokent a fiókodhoz.",
+          "displayName" : "500K AI token csomag",
+          "locale" : "hu"
+        },
+        {
+          "description" : "Añade 500.000 de tokens AI a tu cuenta.",
+          "displayName" : "Paquete de 500K Tokens AI",
+          "locale" : "es_ES"
+        },
+        {
+          "description" : "將 500,000 個 AI 代幣添加到您的帳戶。",
+          "displayName" : "50萬 AI 代幣包",
+          "locale" : "zh_Hant"
+        },
+        {
+          "description" : "Добавьте 500.000 AI токенов на ваш аккаунт.",
+          "displayName" : "Пакет 500K AI токенов",
+          "locale" : "ru"
+        },
+        {
+          "description" : "Fügen Sie 500.000 AI-Tokens zu Ihrem Konto hinzu.",
+          "displayName" : "500K AI Token-Paket",
+          "locale" : "de"
+        },
+        {
+          "description" : "Dodajte 500.000 AI tokena na svoj račun.",
+          "displayName" : "Paket od 500K AI tokena",
+          "locale" : "hr"
+        },
+        {
+          "description" : "Voeg 500.000 AI-tokens toe aan je account.",
+          "displayName" : "500K AI Tokenpakket",
+          "locale" : "nl"
+        },
+        {
+          "description" : "Adaugă 500.000 de tokeni AI în contul tău.",
+          "displayName" : "Pachet 500K Token AI",
+          "locale" : "ro"
+        },
+        {
+          "description" : "Add 500,000 AI tokens to your account.",
+          "displayName" : "500K AI Token Pack",
+          "locale" : "en_GB"
+        },
+        {
+          "description" : "Adicione 500.000 tokens AI à sua conta.",
+          "displayName" : "Pacote de 500K Tokens AI",
+          "locale" : "pt_BR"
+        },
+        {
+          "description" : "Ajoutez 500.000 de jetons AI à votre compte.",
+          "displayName" : "Pack de 500K de jetons AI",
+          "locale" : "fr"
+        },
+        {
+          "description" : "Aggiungi 500.000 token AI al tuo account.",
+          "displayName" : "Pacchetto 500K Token AI",
+          "locale" : "it"
+        }
+      ],
+      "productID" : "com.healthbeam.tokens.01_500k",
+      "referenceName" : "01 - Token Pack 500K",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "6752971108",
+      "localizations" : [
+        {
+          "description" : "Lägg till 1.500.000 AI-tokens på ditt konto.",
+          "displayName" : "1,5M AI Token-paket",
+          "locale" : "sv"
+        },
+        {
+          "description" : "أضف 1,500,000 رمز AI إلى حسابك.",
+          "displayName" : "حزمة 1.5 مليون رمز AI",
+          "locale" : "ar"
+        },
+        {
+          "description" : "Přidejte 1.500.000 AI tokenů na svůj účet.",
+          "displayName" : "Balíček 1,5M AI tokenů",
+          "locale" : "cs"
+        },
+        {
+          "description" : "เพิ่ม 1,500,000 โทเค็น AI ในบัญชีของคุณ",
+          "displayName" : "แพ็ก 1.5M โทเค็น AI",
+          "locale" : "th"
+        },
+        {
+          "description" : "Afegeix 1.500.000 de tokens AI al teu compte.",
+          "displayName" : "Paquet de 1,5M Tokens AI",
+          "locale" : "ca"
+        },
+        {
+          "description" : "अपने खाते में 1,500,000 AI टोकन जोड़ें।",
+          "displayName" : "1.5M AI टोकन पैक",
+          "locale" : "hi"
+        },
+        {
+          "description" : "Ajoutez 1 500 000 jetons AI à votre compte.",
+          "displayName" : "Forfait de 1,5M jetons AI",
+          "locale" : "fr_CA"
+        },
+        {
+          "description" : "Dodaj 1.500.000 tokenów AI do swojego konta.",
+          "displayName" : "Pakiet 1,5M Tokenów AI",
+          "locale" : "pl"
+        },
+        {
+          "description" : "Tambahkan 1,500,000 token AI ke akaun anda.",
+          "displayName" : "Pek 1.5M Token AI",
+          "locale" : "ms"
+        },
+        {
+          "description" : "Додайте 1.500.000 AI токенів до свого акаунта.",
+          "displayName" : "Пакет 1,5M AI токенів",
+          "locale" : "uk"
+        },
+        {
+          "description" : "Add 1,500,000 AI tokens to your account.",
+          "displayName" : "1.5M AI Token Pack",
+          "locale" : "en_AU"
+        },
+        {
+          "description" : "将 1,500,000 个 AI 代币添加到您的账户。",
+          "displayName" : "150万 AI 代币包",
+          "locale" : "zh_Hans"
+        },
+        {
+          "description" : "Agrega 1,500,000 de tokens AI a tu cuenta.",
+          "displayName" : "Paquete de 1,5M Tokens AI",
+          "locale" : "es_MX"
+        },
+        {
+          "description" : "Add 1,500,000 AI tokens to your account.",
+          "displayName" : "1.5M AI Token Pack",
+          "locale" : "en_CA"
+        },
+        {
+          "description" : "Hesabınıza 1.500.000 AI jetonu ekleyin.",
+          "displayName" : "1,5M AI Jeton Paketi",
+          "locale" : "tr"
+        },
+        {
+          "description" : "1,500,000 AI 토큰을 계정에 추가하세요.",
+          "displayName" : "150만 AI 토큰 팩",
+          "locale" : "ko"
+        },
+        {
+          "description" : "Προσθέστε 1.500.000 AI tokens στον λογαριασμό σας.",
+          "displayName" : "Πακέτο 1,5M AI Tokens",
+          "locale" : "el"
+        },
+        {
+          "description" : "חבילת מיליון וחמש מאות אלף אסימוני AI",
+          "displayName" : "1.5M חבילת אסימוני AI",
+          "locale" : "he"
+        },
+        {
+          "description" : "1,500,000 の AI トークンをアカウントに追加します。",
+          "displayName" : "150万 AI トークンパック",
+          "locale" : "ja"
+        },
+        {
+          "description" : "Tambahkan 1.500.000 token AI ke akun Anda.",
+          "displayName" : "Paket 1,5M Token AI",
+          "locale" : "id"
+        },
+        {
+          "description" : "Lisää 1.500.000 AI-tokenia tilillesi.",
+          "displayName" : "1,5M AI-tokenpaketti",
+          "locale" : "fi"
+        },
+        {
+          "description" : "Tilføj 1.500.000 AI tokens til din konto.",
+          "displayName" : "1,5M AI Token-pakke",
+          "locale" : "da"
+        },
+        {
+          "description" : "Thêm 1.500.000 token AI vào tài khoản của bạn.",
+          "displayName" : "Gói 1,5M Token AI",
+          "locale" : "vi"
+        },
+        {
+          "description" : "Pridajte 1.500.000 AI tokenov na svoj účet.",
+          "displayName" : "Balíček 1,5M AI tokenov",
+          "locale" : "sk"
+        },
+        {
+          "description" : "Adicione 1.500.000 tokens AI à sua conta.",
+          "displayName" : "Pacote de 1,5M Tokens AI",
+          "locale" : "pt_PT"
+        },
+        {
+          "description" : "Add 1.5M AI tokens to your account.",
+          "displayName" : "1.5M AI Token Pack",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Adj hozzá 1.500.000 AI tokent a fiókodhoz.",
+          "displayName" : "1,5M AI token csomag",
+          "locale" : "hu"
+        },
+        {
+          "description" : "Añade 1.500.000 de tokens AI a tu cuenta.",
+          "displayName" : "Paquete de 1,5M Tokens AI",
+          "locale" : "es_ES"
+        },
+        {
+          "description" : "將 1,500,000 個 AI 代幣添加到您的帳戶。",
+          "displayName" : "150萬 AI 代幣包",
+          "locale" : "zh_Hant"
+        },
+        {
+          "description" : "Добавьте 1.500.000 AI токенов на ваш аккаунт.",
+          "displayName" : "Пакет 1,5M AI токенов",
+          "locale" : "ru"
+        },
+        {
+          "description" : "Fügen Sie 1.500.000 AI-Tokens zu Ihrem Konto hinzu.",
+          "displayName" : "1,5M AI Token-Paket",
+          "locale" : "de"
+        },
+        {
+          "description" : "Dodajte 1.500.000 AI tokena na svoj račun.",
+          "displayName" : "Paket od 1,5M AI tokena",
+          "locale" : "hr"
+        },
+        {
+          "description" : "Voeg 1.500.000 AI-tokens toe aan je account.",
+          "displayName" : "1,5M AI Tokenpakket",
+          "locale" : "nl"
+        },
+        {
+          "description" : "Adaugă 1.500.000 de tokeni AI în contul tău.",
+          "displayName" : "Pachet 1,5M Token AI",
+          "locale" : "ro"
+        },
+        {
+          "description" : "Add 1,500,000 AI tokens to your account.",
+          "displayName" : "1.5M AI Token Pack",
+          "locale" : "en_GB"
+        },
+        {
+          "description" : "Ajoutez 1.500.000 de jetons AI à votre compte.",
+          "displayName" : "Pack de 1,5M de jetons AI",
+          "locale" : "fr"
+        },
+        {
+          "description" : "Aggiungi 1.500.000 token AI al tuo account.",
+          "displayName" : "Pacchetto 1,5M Token AI",
+          "locale" : "it"
+        },
+        {
+          "description" : "Adicione 1.500.000 tokens AI à sua conta.",
+          "displayName" : "Pacote de 1,5M Tokens AI",
+          "locale" : "pt_BR"
+        }
+      ],
+      "productID" : "com.healthbeam.tokens.02_1m500k",
+      "referenceName" : "02 - Token Pack 1.5M",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "5.99",
+      "familyShareable" : false,
+      "internalID" : "6752970927",
+      "localizations" : [
+        {
+          "description" : "Přidejte 2.000.000 AI tokenů na svůj účet.",
+          "displayName" : "Balíček 2M AI tokenů",
+          "locale" : "cs"
+        },
+        {
+          "description" : "أضف 2,000,000 رمز AI إلى حسابك.",
+          "displayName" : "حزمة 2 مليون رمز AI",
+          "locale" : "ar"
+        },
+        {
+          "description" : "Lägg till 2.000.000 AI-tokens på ditt konto.",
+          "displayName" : "2M AI Token-paket",
+          "locale" : "sv"
+        },
+        {
+          "description" : "Tambahkan 2,000,000 token AI ke akaun anda.",
+          "displayName" : "Pek 2M Token AI",
+          "locale" : "ms"
+        },
+        {
+          "description" : "Afegeix 2.000.000 de tokens AI al teu compte.",
+          "displayName" : "Paquet de 2M Tokens AI",
+          "locale" : "ca"
+        },
+        {
+          "description" : "अपने खाते में 2,000,000 AI टोकन जोड़ें।",
+          "displayName" : "2M AI टोकन पैक",
+          "locale" : "hi"
+        },
+        {
+          "description" : "Ajoutez 2 000 000 jetons AI à votre compte.",
+          "displayName" : "Forfait de 2M jetons AI",
+          "locale" : "fr_CA"
+        },
+        {
+          "description" : "เพิ่ม 2,000,000 โทเค็น AI ในบัญชีของคุณ",
+          "displayName" : "แพ็ก 2M โทเค็น AI",
+          "locale" : "th"
+        },
+        {
+          "description" : "Dodaj 2.000.000 tokenów AI do swojego konta.",
+          "displayName" : "Pakiet 2M Tokenów AI",
+          "locale" : "pl"
+        },
+        {
+          "description" : "Додайте 2.000.000 AI токенів до свого акаунта.",
+          "displayName" : "Пакет 2M AI токенів",
+          "locale" : "uk"
+        },
+        {
+          "description" : "将 2,000,000 个 AI 代币添加到您的账户。",
+          "displayName" : "200万 AI 代币包",
+          "locale" : "zh_Hans"
+        },
+        {
+          "description" : "Add 2,000,000 AI tokens to your account.",
+          "displayName" : "2M AI Token Pack",
+          "locale" : "en_AU"
+        },
+        {
+          "description" : "Agrega 2,000,000 de tokens AI a tu cuenta.",
+          "displayName" : "Paquete de 2M Tokens AI",
+          "locale" : "es_MX"
+        },
+        {
+          "description" : "Add 2,000,000 AI tokens to your account.",
+          "displayName" : "2M AI Token Pack",
+          "locale" : "en_CA"
+        },
+        {
+          "description" : "Hesabınıza 2.000.000 AI jetonu ekleyin.",
+          "displayName" : "2M AI Jeton Paketi",
+          "locale" : "tr"
+        },
+        {
+          "description" : "2,000,000 AI 토큰을 계정에 추가하세요.",
+          "displayName" : "200만 AI 토큰 팩",
+          "locale" : "ko"
+        },
+        {
+          "description" : "Προσθέστε 2.000.000 AI tokens στον λογαριασμό σας.",
+          "displayName" : "Πακέτο 2M AI Tokens",
+          "locale" : "el"
+        },
+        {
+          "description" : "חבילת שני מיליון אסימוני AI",
+          "displayName" : "2M חבילת אסימוני AI",
+          "locale" : "he"
+        },
+        {
+          "description" : "2,000,000 の AI トークンをアカウントに追加します。",
+          "displayName" : "200万 AI トークンパック",
+          "locale" : "ja"
+        },
+        {
+          "description" : "Tambahkan 2.000.000 token AI ke akun Anda.",
+          "displayName" : "Paket 2M Token AI",
+          "locale" : "id"
+        },
+        {
+          "description" : "Lisää 2.000.000 AI-tokenia tilillesi.",
+          "displayName" : "2M AI-tokenpaketti",
+          "locale" : "fi"
+        },
+        {
+          "description" : "Tilføj 2.000.000 AI tokens til din konto.",
+          "displayName" : "2M AI Token-pakke",
+          "locale" : "da"
+        },
+        {
+          "description" : "Thêm 2.000.000 token AI vào tài khoản của bạn.",
+          "displayName" : "Gói 2M Token AI",
+          "locale" : "vi"
+        },
+        {
+          "description" : "Adj hozzá 2.000.000 AI tokent a fiókodhoz.",
+          "displayName" : "2M AI token csomag",
+          "locale" : "hu"
+        },
+        {
+          "description" : "Adicione 2.000.000 tokens AI à sua conta.",
+          "displayName" : "Pacote de 2M Tokens AI",
+          "locale" : "pt_PT"
+        },
+        {
+          "description" : "Pridajte 2.000.000 AI tokenov na svoj účet.",
+          "displayName" : "Balíček 2M AI tokenov",
+          "locale" : "sk"
+        },
+        {
+          "description" : "Add 2M AI tokens to your account.",
+          "displayName" : "2M AI Token Pack",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Añade 2.000.000 de tokens AI a tu cuenta.",
+          "displayName" : "Paquete de 2M Tokens AI",
+          "locale" : "es_ES"
+        },
+        {
+          "description" : "將 2,000,000 個 AI 代幣添加到您的帳戶。",
+          "displayName" : "200萬 AI 代幣包",
+          "locale" : "zh_Hant"
+        },
+        {
+          "description" : "Добавьте 2.000.000 AI токенов на ваш аккаунт.",
+          "displayName" : "Пакет 2M AI токенов",
+          "locale" : "ru"
+        },
+        {
+          "description" : "Fügen Sie 2.000.000 AI-Tokens zu Ihrem Konto hinzu.",
+          "displayName" : "2M AI Token-Paket",
+          "locale" : "de"
+        },
+        {
+          "description" : "Dodajte 2.000.000 AI tokena na svoj račun.",
+          "displayName" : "Paket od 2M AI tokena",
+          "locale" : "hr"
+        },
+        {
+          "description" : "Voeg 2.000.000 AI-tokens toe aan je account.",
+          "displayName" : "2M AI Tokenpakket",
+          "locale" : "nl"
+        },
+        {
+          "description" : "Adaugă 2.000.000 de tokeni AI în contul tău.",
+          "displayName" : "Pachet 2M Token AI",
+          "locale" : "ro"
+        },
+        {
+          "description" : "Add 2,000,000 AI tokens to your account.",
+          "displayName" : "2M AI Token Pack",
+          "locale" : "en_GB"
+        },
+        {
+          "description" : "Adicione 2.000.000 tokens AI à sua conta.",
+          "displayName" : "Pacote de 2M Tokens AI",
+          "locale" : "pt_BR"
+        },
+        {
+          "description" : "Aggiungi 2.000.000 token AI al tuo account.",
+          "displayName" : "Pacchetto 2M Token AI",
+          "locale" : "it"
+        },
+        {
+          "description" : "Ajoutez 2.000.000 de jetons AI à votre compte.",
+          "displayName" : "Pack de 2M de jetons AI",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "com.healthbeam.tokens.03_2m",
+      "referenceName" : "03 - Token Pack 2M",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "12.99",
+      "familyShareable" : false,
+      "internalID" : "6752971110",
+      "localizations" : [
+        {
+          "description" : "Přidejte 5.000.000 AI tokenů na svůj účet.",
+          "displayName" : "Balíček 5M AI tokenů",
+          "locale" : "cs"
+        },
+        {
+          "description" : "أضف 5,000,000 رمز AI إلى حسابك.",
+          "displayName" : "حزمة 5 مليون رمز AI",
+          "locale" : "ar"
+        },
+        {
+          "description" : "Lägg till 5.000.000 AI-tokens på ditt konto.",
+          "displayName" : "5M AI Token-paket",
+          "locale" : "sv"
+        },
+        {
+          "description" : "Tambahkan 5,000,000 token AI ke akaun anda.",
+          "displayName" : "Pek 5M Token AI",
+          "locale" : "ms"
+        },
+        {
+          "description" : "Afegeix 5.000.000 de tokens AI al teu compte.",
+          "displayName" : "Paquet de 5M Tokens AI",
+          "locale" : "ca"
+        },
+        {
+          "description" : "Ajoutez 5 000 000 jetons AI à votre compte.",
+          "displayName" : "Forfait de 5M jetons AI",
+          "locale" : "fr_CA"
+        },
+        {
+          "description" : "Dodaj 5.000.000 tokenów AI do swojego konta.",
+          "displayName" : "Pakiet 5M Tokenów AI",
+          "locale" : "pl"
+        },
+        {
+          "description" : "अपने खाते में 5,000,000 AI टोकन जोड़ें।",
+          "displayName" : "5M AI टोकन पैक",
+          "locale" : "hi"
+        },
+        {
+          "description" : "เพิ่ม 5,000,000 โทเค็น AI ในบัญชีของคุณ",
+          "displayName" : "แพ็ก 5M โทเค็น AI",
+          "locale" : "th"
+        },
+        {
+          "description" : "Додайте 5.000.000 AI токенів до свого акаунта.",
+          "displayName" : "Пакет 5M AI токенів",
+          "locale" : "uk"
+        },
+        {
+          "description" : "将 5,000,000 个 AI 代币添加到您的账户。",
+          "displayName" : "500万 AI 代币包",
+          "locale" : "zh_Hans"
+        },
+        {
+          "description" : "Add 5,000,000 AI tokens to your account.",
+          "displayName" : "5M AI Token Pack",
+          "locale" : "en_AU"
+        },
+        {
+          "description" : "Agrega 5,000,000 de tokens AI a tu cuenta.",
+          "displayName" : "Paquete de 5M Tokens AI",
+          "locale" : "es_MX"
+        },
+        {
+          "description" : "Add 5,000,000 AI tokens to your account.",
+          "displayName" : "5M AI Token Pack",
+          "locale" : "en_CA"
+        },
+        {
+          "description" : "Hesabınıza 5.000.000 AI jetonu ekleyin.",
+          "displayName" : "5M AI Jeton Paketi",
+          "locale" : "tr"
+        },
+        {
+          "description" : "5,000,000 AI 토큰을 계정에 추가하세요.",
+          "displayName" : "500만 AI 토큰 팩",
+          "locale" : "ko"
+        },
+        {
+          "description" : "Προσθέστε 5.000.000 AI tokens στον λογαριασμό σας.",
+          "displayName" : "Πακέτο 5M AI Tokens",
+          "locale" : "el"
+        },
+        {
+          "description" : "חבילת חמישה מיליון אסימוני AI",
+          "displayName" : "5M חבילת אסימוני AI",
+          "locale" : "he"
+        },
+        {
+          "description" : "5,000,000 の AI トークンをアカウントに追加します。",
+          "displayName" : "500万 AI トークンパック",
+          "locale" : "ja"
+        },
+        {
+          "description" : "Tambahkan 5.000.000 token AI ke akun Anda.",
+          "displayName" : "Paket 5M Token AI",
+          "locale" : "id"
+        },
+        {
+          "description" : "Lisää 5.000.000 AI-tokenia tilillesi.",
+          "displayName" : "5M AI-tokenpaketti",
+          "locale" : "fi"
+        },
+        {
+          "description" : "Tilføj 5.000.000 AI tokens til din konto.",
+          "displayName" : "5M AI Token-pakke",
+          "locale" : "da"
+        },
+        {
+          "description" : "Add 5M AI tokens to your account.",
+          "displayName" : "5M AI Token Pack",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Thêm 5.000.000 token AI vào tài khoản của bạn.",
+          "displayName" : "Gói 5M Token AI",
+          "locale" : "vi"
+        },
+        {
+          "description" : "Adj hozzá 5.000.000 AI tokent a fiókodhoz.",
+          "displayName" : "5M AI token csomag",
+          "locale" : "hu"
+        },
+        {
+          "description" : "Adicione 5.000.000 tokens AI à sua conta.",
+          "displayName" : "Pacote de 5M Tokens AI",
+          "locale" : "pt_PT"
+        },
+        {
+          "description" : "Pridajte 5.000.000 AI tokenov na svoj účet.",
+          "displayName" : "Balíček 5M AI tokenov",
+          "locale" : "sk"
+        },
+        {
+          "description" : "Añade 5.000.000 de tokens AI a tu cuenta.",
+          "displayName" : "Paquete de 5M Tokens AI",
+          "locale" : "es_ES"
+        },
+        {
+          "description" : "將 5,000,000 個 AI 代幣添加到您的帳戶。",
+          "displayName" : "500萬 AI 代幣包",
+          "locale" : "zh_Hant"
+        },
+        {
+          "description" : "Добавьте 5.000.000 AI токенов на ваш аккаунт.",
+          "displayName" : "Пакет 5M AI токенов",
+          "locale" : "ru"
+        },
+        {
+          "description" : "Fügen Sie 5.000.000 AI-Tokens zu Ihrem Konto hinzu.",
+          "displayName" : "5M AI Token-Paket",
+          "locale" : "de"
+        },
+        {
+          "description" : "Dodajte 5.000.000 AI tokena na svoj račun.",
+          "displayName" : "Paket od 5M AI tokena",
+          "locale" : "hr"
+        },
+        {
+          "description" : "Voeg 5.000.000 AI-tokens toe aan je account.",
+          "displayName" : "5M AI Tokenpakket",
+          "locale" : "nl"
+        },
+        {
+          "description" : "Adaugă 5.000.000 de tokeni AI în contul tău.",
+          "displayName" : "Pachet 5M Token AI",
+          "locale" : "ro"
+        },
+        {
+          "description" : "Add 5,000,000 AI tokens to your account.",
+          "displayName" : "5M AI Token Pack",
+          "locale" : "en_GB"
+        },
+        {
+          "description" : "Adicione 5.000.000 tokens AI à sua conta.",
+          "displayName" : "Pacote de 5M Tokens AI",
+          "locale" : "pt_BR"
+        },
+        {
+          "description" : "Ajoutez 5.000.000 de jetons AI à votre compte.",
+          "displayName" : "Pack de 5M de jetons AI",
+          "locale" : "fr"
+        },
+        {
+          "description" : "Aggiungi 5.000.000 token AI al tuo account.",
+          "displayName" : "Pacchetto 5M Token AI",
+          "locale" : "it"
+        }
+      ],
+      "productID" : "com.healthbeam.tokens.04_5m",
+      "referenceName" : "04 - Token Pack 5M",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "14.99",
+      "familyShareable" : false,
+      "internalID" : "6752971112",
+      "localizations" : [
+        {
+          "description" : "Lägg till 6.000.000 AI-tokens på ditt konto.",
+          "displayName" : "6M AI Token-paket",
+          "locale" : "sv"
+        },
+        {
+          "description" : "أضف 6,000,000 رمز AI إلى حسابك.",
+          "displayName" : "حزمة 6 مليون رمز AI",
+          "locale" : "ar"
+        },
+        {
+          "description" : "Přidejte 6.000.000 AI tokenů na svůj účet.",
+          "displayName" : "Balíček 6M AI tokenů",
+          "locale" : "cs"
+        },
+        {
+          "description" : "เพิ่ม 6,000,000 โทเค็น AI ในบัญชีของคุณ",
+          "displayName" : "แพ็ก 6M โทเค็น AI",
+          "locale" : "th"
+        },
+        {
+          "description" : "Afegeix 6.000.000 de tokens AI al teu compte.",
+          "displayName" : "Paquet de 6M Tokens AI",
+          "locale" : "ca"
+        },
+        {
+          "description" : "Ajoutez 6 000 000 jetons AI à votre compte.",
+          "displayName" : "Forfait de 6M jetons AI",
+          "locale" : "fr_CA"
+        },
+        {
+          "description" : "अपने खाते में 6,000,000 AI टोकन जोड़ें।",
+          "displayName" : "6M AI टोकन पैक",
+          "locale" : "hi"
+        },
+        {
+          "description" : "Dodaj 6.000.000 tokenów AI do swojego konta.",
+          "displayName" : "Pakiet 6M Tokenów AI",
+          "locale" : "pl"
+        },
+        {
+          "description" : "Tambahkan 6,000,000 token AI ke akaun anda.",
+          "displayName" : "Pek 6M Token AI",
+          "locale" : "ms"
+        },
+        {
+          "description" : "Додайте 6.000.000 AI токенів до свого акаунта.",
+          "displayName" : "Пакет 6M AI токенів",
+          "locale" : "uk"
+        },
+        {
+          "description" : "将 6,000,000 个 AI 代币添加到您的账户。",
+          "displayName" : "600万 AI 代币包",
+          "locale" : "zh_Hans"
+        },
+        {
+          "description" : "Add 6,000,000 AI tokens to your account.",
+          "displayName" : "6M AI Token Pack",
+          "locale" : "en_AU"
+        },
+        {
+          "description" : "Agrega 6,000,000 de tokens AI a tu cuenta.",
+          "displayName" : "Paquete de 6M Tokens AI",
+          "locale" : "es_MX"
+        },
+        {
+          "description" : "Add 6,000,000 AI tokens to your account.",
+          "displayName" : "6M AI Token Pack",
+          "locale" : "en_CA"
+        },
+        {
+          "description" : "Hesabınıza 6.000.000 AI jetonu ekleyin.",
+          "displayName" : "6M AI Jeton Paketi",
+          "locale" : "tr"
+        },
+        {
+          "description" : "6,000,000 AI 토큰을 계정에 추가하세요.",
+          "displayName" : "600만 AI 토큰 팩",
+          "locale" : "ko"
+        },
+        {
+          "description" : "Προσθέστε 6.000.000 AI tokens στον λογαριασμό σας.",
+          "displayName" : "Πακέτο 6M AI Tokens",
+          "locale" : "el"
+        },
+        {
+          "description" : "חבילת שישה מיליון אסימוני AI",
+          "displayName" : "6M חבילת אסימוני AI",
+          "locale" : "he"
+        },
+        {
+          "description" : "6,000,000 の AI トークンをアカウントに追加します。",
+          "displayName" : "600万 AI トークンパック",
+          "locale" : "ja"
+        },
+        {
+          "description" : "Tambahkan 6.000.000 token AI ke akun Anda.",
+          "displayName" : "Paket 6M Token AI",
+          "locale" : "id"
+        },
+        {
+          "description" : "Lisää 6.000.000 AI-tokenia tilillesi.",
+          "displayName" : "6M AI-tokenpaketti",
+          "locale" : "fi"
+        },
+        {
+          "description" : "Tilføj 6.000.000 AI tokens til din konto.",
+          "displayName" : "6M AI Token-pakke",
+          "locale" : "da"
+        },
+        {
+          "description" : "Thêm 6.000.000 token AI vào tài khoản của bạn.",
+          "displayName" : "Gói 6M Token AI",
+          "locale" : "vi"
+        },
+        {
+          "description" : "Adj hozzá 6.000.000 AI tokent a fiókodhoz.",
+          "displayName" : "6M AI token csomag",
+          "locale" : "hu"
+        },
+        {
+          "description" : "Adicione 6.000.000 tokens AI à sua conta.•",
+          "displayName" : "Pacote de 6M Tokens AI",
+          "locale" : "pt_PT"
+        },
+        {
+          "description" : "Pridajte 6.000.000 AI tokenov na svoj účet.",
+          "displayName" : "Balíček 6M AI tokenov",
+          "locale" : "sk"
+        },
+        {
+          "description" : "Add 6M AI tokens to your account.",
+          "displayName" : "6M AI Token Pack",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Añade 6.000.000 de tokens AI a tu cuenta.",
+          "displayName" : "Paquete de 6M Tokens AI",
+          "locale" : "es_ES"
+        },
+        {
+          "description" : "將 6,000,000 個 AI 代幣添加到您的帳戶。",
+          "displayName" : "600萬 AI 代幣包",
+          "locale" : "zh_Hant"
+        },
+        {
+          "description" : "Добавьте 6.000.000 AI токенов на ваш аккаунт.",
+          "displayName" : "Пакет 6M AI токенов",
+          "locale" : "ru"
+        },
+        {
+          "description" : "Fügen Sie 6.000.000 AI-Tokens zu Ihrem Konto hinzu.",
+          "displayName" : "6M AI Token-Paket",
+          "locale" : "de"
+        },
+        {
+          "description" : "Dodajte 6.000.000 AI tokena na svoj račun.",
+          "displayName" : "Paket od 6M AI tokena",
+          "locale" : "hr"
+        },
+        {
+          "description" : "Voeg 6.000.000 AI-tokens toe aan je account.",
+          "displayName" : "6M AI Tokenpakket",
+          "locale" : "nl"
+        },
+        {
+          "description" : "Adaugă 6.000.000 de tokeni AI în contul tău.",
+          "displayName" : "Pachet 6M Token AI",
+          "locale" : "ro"
+        },
+        {
+          "description" : "Add 6,000,000 AI tokens to your account.",
+          "displayName" : "6M AI Token Pack",
+          "locale" : "en_GB"
+        },
+        {
+          "description" : "Adicione 6.000.000 tokens AI à sua conta.",
+          "displayName" : "Pacote de 6M Tokens AI",
+          "locale" : "pt_BR"
+        },
+        {
+          "description" : "Ajoutez 6.000.000 de jetons AI à votre compte.",
+          "displayName" : "Pack de 6M de jetons AI",
+          "locale" : "fr"
+        },
+        {
+          "description" : "Aggiungi 6.000.000 token AI al tuo account.",
+          "displayName" : "Pacchetto 6M Token AI",
+          "locale" : "it"
+        }
+      ],
+      "productID" : "com.healthbeam.tokens.05_6m",
+      "referenceName" : "05 - Token Pack 6M",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "39.99",
+      "familyShareable" : false,
+      "internalID" : "6752971094",
+      "localizations" : [
+        {
+          "description" : "Přidejte 20.000.000 AI tokenů na svůj účet.",
+          "displayName" : "Balíček 20M AI tokenů",
+          "locale" : "cs"
+        },
+        {
+          "description" : "أضف 20,000,000 رمز AI إلى حسابك.",
+          "displayName" : "حزمة 20 مليون رمز AI",
+          "locale" : "ar"
+        },
+        {
+          "description" : "Lägg till 20.000.000 AI-tokens på ditt konto.",
+          "displayName" : "20M AI Token-paket",
+          "locale" : "sv"
+        },
+        {
+          "description" : "Tambahkan 20,000,000 token AI ke akaun anda.",
+          "displayName" : "Pek 20M Token AI",
+          "locale" : "ms"
+        },
+        {
+          "description" : "Ajoutez 20 000 000 jetons AI à votre compte.",
+          "displayName" : "Forfait de 20M jetons AI",
+          "locale" : "fr_CA"
+        },
+        {
+          "description" : "अपने खाते में 20,000,000 AI टोकन जोड़ें।",
+          "displayName" : "20M AI टोकन पैक",
+          "locale" : "hi"
+        },
+        {
+          "description" : "Dodaj 20.000.000 tokenów AI do swojego konta.",
+          "displayName" : "Pakiet 20M Tokenów AI",
+          "locale" : "pl"
+        },
+        {
+          "description" : "เพิ่ม 20,000,000 โทเค็น AI ในบัญชีของคุณ",
+          "displayName" : "แพ็ก 20M โทเค็น AI",
+          "locale" : "th"
+        },
+        {
+          "description" : "Afegeix 20.000.000 de tokens AI al teu compte.",
+          "displayName" : "Paquet de 20M Tokens AI",
+          "locale" : "ca"
+        },
+        {
+          "description" : "Додайте 20.000.000 AI токенів до свого акаунта.",
+          "displayName" : "Пакет 20M AI токенів",
+          "locale" : "uk"
+        },
+        {
+          "description" : "将 20,000,000 个 AI 代币添加到您的账户。",
+          "displayName" : "2000万 AI 代币包",
+          "locale" : "zh_Hans"
+        },
+        {
+          "description" : "Add 20,000,000 AI tokens to your account.",
+          "displayName" : "20M AI Token Pack",
+          "locale" : "en_AU"
+        },
+        {
+          "description" : "Añade 20.000.000 de tokens AI a tu cuenta.",
+          "displayName" : "Paquete de 20M Tokens AI",
+          "locale" : "es_MX"
+        },
+        {
+          "description" : "Add 20,000,000 AI tokens to your account.",
+          "displayName" : "20M AI Token Pack",
+          "locale" : "en_CA"
+        },
+        {
+          "description" : "Hesabınıza 20.000.000 AI jetonu ekleyin.",
+          "displayName" : "20M AI Jeton Paketi",
+          "locale" : "tr"
+        },
+        {
+          "description" : "20,000,000 AI 토큰을 계정에 추가하세요.",
+          "displayName" : "2,000만 AI 토큰 팩",
+          "locale" : "ko"
+        },
+        {
+          "description" : "Προσθέστε 20.000.000 AI tokens στον λογαριασμό σας.",
+          "displayName" : "Πακέτο 20M AI Tokens",
+          "locale" : "el"
+        },
+        {
+          "description" : "חבילת עשרים מיליון אסימוני AI",
+          "displayName" : "20M חבילת אסימוני AI",
+          "locale" : "he"
+        },
+        {
+          "description" : "20,000,000 の AI トークンをアカウントに追加します。",
+          "displayName" : "2,000万 AI トークンパック",
+          "locale" : "ja"
+        },
+        {
+          "description" : "Tambahkan 20.000.000 token AI ke akun Anda.",
+          "displayName" : "Paket 20M Token AI",
+          "locale" : "id"
+        },
+        {
+          "description" : "Lisää 20.000.000 AI-tokenia tilillesi.",
+          "displayName" : "20M AI-tokenpaketti",
+          "locale" : "fi"
+        },
+        {
+          "description" : "Tilføj 20.000.000 AI tokens til din konto.",
+          "displayName" : "20M AI Token-pakke",
+          "locale" : "da"
+        },
+        {
+          "description" : "Pridajte 20.000.000 AI tokenov na svoj účet.",
+          "displayName" : "Balíček 20M AI tokenov",
+          "locale" : "sk"
+        },
+        {
+          "description" : "Adj hozzá 20.000.000 AI tokent a fiókodhoz.",
+          "displayName" : "20M AI token csomag",
+          "locale" : "hu"
+        },
+        {
+          "description" : "Adicione 20.000.000 tokens AI à sua conta.",
+          "displayName" : "Pacote de 20M Tokens AI",
+          "locale" : "pt_PT"
+        },
+        {
+          "description" : "Add 20M AI tokens to your account.",
+          "displayName" : "20M AI Token Pack",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Thêm 20.000.000 token AI vào tài khoản của bạn.",
+          "displayName" : "Gói 20M Token AI",
+          "locale" : "vi"
+        },
+        {
+          "description" : "Agrega 20,000,000 de tokens AI a tu cuenta.",
+          "displayName" : "Paquete de 20M Tokens AI",
+          "locale" : "es_ES"
+        },
+        {
+          "description" : "將 20,000,000 個 AI 代幣添加到您的帳戶。",
+          "displayName" : "2000萬 AI 代幣包",
+          "locale" : "zh_Hant"
+        },
+        {
+          "description" : "Добавьте 20.000.000 AI токенов на ваш аккаунт.",
+          "displayName" : "Пакет 20M AI токенов",
+          "locale" : "ru"
+        },
+        {
+          "description" : "Fügen Sie 20.000.000 AI-Tokens zu Ihrem Konto hinzu.",
+          "displayName" : "20M AI Token-Paket",
+          "locale" : "de"
+        },
+        {
+          "description" : "Dodajte 20.000.000 AI tokena na svoj račun.",
+          "displayName" : "Paket od 20M AI tokena",
+          "locale" : "hr"
+        },
+        {
+          "description" : "Voeg 20.000.000 AI-tokens toe aan je account.",
+          "displayName" : "20M AI Tokenpakket",
+          "locale" : "nl"
+        },
+        {
+          "description" : "Adaugă 20.000.000 de tokeni AI în contul tău.",
+          "displayName" : "Pachet 20M Token AI",
+          "locale" : "ro"
+        },
+        {
+          "description" : "Add 20,000,000 AI tokens to your account.",
+          "displayName" : "20M AI Token Pack",
+          "locale" : "en_GB"
+        },
+        {
+          "description" : "Ajoutez 20.000.000 de jetons AI à votre compte.",
+          "displayName" : "Pack de 20M de jetons AI",
+          "locale" : "fr"
+        },
+        {
+          "description" : "Aggiungi 20.000.000 token AI al tuo account.",
+          "displayName" : "Pacchetto 20M Token AI",
+          "locale" : "it"
+        },
+        {
+          "description" : "Adicione 20.000.000 tokens AI à sua conta.",
+          "displayName" : "Pacote de 20M Tokens AI",
+          "locale" : "pt_BR"
+        }
+      ],
+      "productID" : "com.healthbeam.tokens.06_20m",
+      "referenceName" : "06 - Token Pack 20M",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6748559687",
+    "_askToBuyEnabled" : false,
+    "_billingGracePeriodEnabled" : false,
+    "_billingIssuesEnabled" : false,
+    "_developerTeamID" : "C6V95J69N2",
+    "_disableDialogs" : false,
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 781680810.77477002,
+    "_locale" : "en_US",
+    "_renewalBillingIssuesEnabled" : false,
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+
+    ],
+    "_timeRate" : 0
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "fill-specializations" : [
+    {
+      "value" : {
+        "linear-gradient" : [
+          "display-p3:0.34402,0.08923,0.00000,1.00000",
+          "display-p3:0.00000,0.00000,0.00000,1.00000"
+        ]
+      }
+    },
+    {
+      "appearance" : "dark",
+      "value" : {
+        "linear-gradient" : [
+          "extended-gray:0.00000,1.00000",
+          "extended-gray:0.00000,1.00000"
+        ]
+      }
+    }
+  ],
+  "groups" : [
+    {
+      "layers" : [
+
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    },
+    {
+      "blur-material-specializations" : [
+        {
+          "idiom" : "square",
+          "value" : 0.5
+        }
+      ],
+      "layers" : [
+
+      ],
+      "lighting" : "combined",
+      "position" : {
+        "scale" : 1,
+        "translation-in-points" : [
+          -3.4109302418245195,
+          -16.260084447513538
+        ]
+      },
+      "shadow-specializations" : [
+        {
+          "appearance" : "light",
+          "value" : {
+            "kind" : "neutral",
+            "opacity" : 0.5
+          }
+        },
+        {
+          "idiom" : "square",
+          "value" : {
+            "kind" : "layer-color",
+            "opacity" : 1
+          }
+        }
+      ],
+      "specular-specializations" : [
+        {
+          "appearance" : "light",
+          "value" : true
+        },
+        {
+          "idiom" : "square",
+          "value" : true
+        }
+      ],
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.4
+      }
+    },
+    {
+      "hidden" : false,
+      "layers" : [
+        {
+          "fill" : {
+            "linear-gradient" : [
+              "display-p3:1.00000,1.00000,1.00000,1.00000",
+              "display-p3:1.00000,1.00000,1.00000,1.00000"
+            ]
+          },
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "figure.walk@10x.png",
+          "name" : "figure.walk@10x",
+          "position" : {
+            "scale" : 0.7,
+            "translation-in-points" : [
+              -103.1328125,
+              266.015625
+            ]
+          }
+        },
+        {
+          "blend-mode" : "normal",
+          "fill" : {
+            "solid" : "display-p3:0.07842,0.60931,0.00180,0.70377"
+          },
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "leaf.fill@5x.png",
+          "name" : "leaf.fill@5x",
+          "position" : {
+            "scale" : 1.6,
+            "translation-in-points" : [
+              -311.1349431818182,
+              71.09090909090907
+            ]
+          }
+        }
+      ],
+      "position" : {
+        "scale" : 1.1,
+        "translation-in-points" : [
+          138.80450106585047,
+          -271.7214243326363
+        ]
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    },
+    {
+      "blur-material" : 1,
+      "layers" : [
+        {
+          "blend-mode" : "normal",
+          "fill" : "automatic",
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "heart.badge.bolt.fill@10x.png",
+          "name" : "heart.badge.bolt.fill@10x",
+          "opacity" : 1,
+          "position" : {
+            "scale" : 0.87,
+            "translation-in-points" : [
+              -221.09929579488343,
+              219.3046875
+            ]
+          }
+        },
+        {
+          "fill" : "automatic",
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "powersleep@10x.png",
+          "name" : "powersleep@10x",
+          "position" : {
+            "scale" : 0.3,
+            "translation-in-points" : [
+              -72.51666666666665,
+              -27.703835227272727
+            ]
+          }
+        }
+      ],
+      "position" : {
+        "scale" : 1.5,
+        "translation-in-points" : [
+          343.24531975817547,
+          -334.4241469475136
+        ]
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.71
+      }
+    },
+    {
+      "layers" : [
+        {
+          "image-name" : "Gemini_Generated_Image_b3r5q9b3r5q9b3r5.png",
+          "name" : "Gemini_Generated_Image_b3r5q9b3r5q9b3r5",
+          "position" : {
+            "scale" : 0.64,
+            "translation-in-points" : [
+              0,
+              -1.1368683772161603e-13
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : "shared"
+  }
+}

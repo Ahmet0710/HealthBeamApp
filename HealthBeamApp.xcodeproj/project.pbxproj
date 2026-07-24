@@ -1,0 +1,590 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 100;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		603000472F1036880012D091 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60FB636D2E7C8297002997F7 /* StoreKit.framework */; settings = {ATTRIBUTES = (Required, ); }; };
+		6045734F2F2FFF6E0054584C /* BackgroundAssets.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6045734D2F2FFF1C0054584C /* BackgroundAssets.framework */; };
+		60B43A362E7DF8C6000E862B /* FirebaseFunctions in Frameworks */ = {isa = PBXBuildFile; productRef = 60B43A352E7DF8C6000E862B /* FirebaseFunctions */; settings = {ATTRIBUTES = (Required, ); }; };
+		60C343F12E78CE7600334DFB /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 60C343F02E78CE7600334DFB /* FirebaseAuth */; settings = {ATTRIBUTES = (Required, ); }; };
+		60C343F32E78CE7600334DFB /* FirebaseCore in Frameworks */ = {isa = PBXBuildFile; productRef = 60C343F22E78CE7600334DFB /* FirebaseCore */; settings = {ATTRIBUTES = (Required, ); }; };
+		60C343F52E78CE7600334DFB /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 60C343F42E78CE7600334DFB /* FirebaseFirestore */; settings = {ATTRIBUTES = (Required, ); }; };
+		60C343F72E78CE7600334DFB /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 60C343F62E78CE7600334DFB /* FirebaseStorage */; settings = {ATTRIBUTES = (Required, ); }; };
+		60CE40532E95DF0900D40413 /* HealthBeamApp.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 60CE40522E95DF0900D40413 /* HealthBeamApp.storekit */; };
+		60FB63692E7C8072002997F7 /* RevenueCat in Frameworks */ = {isa = PBXBuildFile; productRef = 60FB63682E7C8072002997F7 /* RevenueCat */; settings = {ATTRIBUTES = (Required, ); }; };
+		60FB636B2E7C8072002997F7 /* RevenueCatUI in Frameworks */ = {isa = PBXBuildFile; productRef = 60FB636A2E7C8072002997F7 /* RevenueCatUI */; settings = {ATTRIBUTES = (Required, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		60426B442F10126E00CAA50E /* Embed ExtensionKit Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			dstPath = "$(EXTENSIONS_FOLDER_PATH)";
+			dstSubfolder = Product;
+			files = (
+			);
+			name = "Embed ExtensionKit Extensions";
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		6045734D2F2FFF1C0054584C /* BackgroundAssets.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BackgroundAssets.framework; path = System/Library/Frameworks/BackgroundAssets.framework; sourceTree = SDKROOT; };
+		60C341842E78CC8800334DFB /* HealthBeam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HealthBeam.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		60CE40522E95DF0900D40413 /* HealthBeamApp.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; name = HealthBeamApp.storekit; path = ../HealthBeamApp.storekit; sourceTree = SOURCE_ROOT; };
+		60FB636D2E7C8297002997F7 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		60FCF8CA2E8C28BA00BF3EE7 /* Exceptions for "HealthBeam" folder in "HealthBeam" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			assetTagsByRelativePath = {
+				"Meditations/10 minutes - Energy and Focus.mp3" = (audio_focus_03, );
+				"Meditations/10 minutes - Growth and Transformation.mp3" = (audio_growth_03, );
+				"Meditations/10 minutes - Inner peace.mp3" = (audio_peace_03, );
+				"Meditations/10 minutes - Relationships and Connections.mp3" = (audio_rel_03, );
+				"Meditations/10 minutes - Relaxing Sleep .mp3" = (audio_sleep_02, );
+				"Meditations/10 minutes - Self Worth and  Love.mp3" = (audio_self_03, );
+				"Meditations/15 minutes - Energy and Focus.mp3" = (audio_focus_04, );
+				"Meditations/15 minutes - Growth and Transformation.mp3" = (audio_growth_04, );
+				"Meditations/15 minutes - Inner peace.mp3" = (audio_peace_04, );
+				"Meditations/15 minutes - Relationships and Connections.mp3" = (audio_rel_04, );
+				"Meditations/15 minutes - Self Worth and  Love.mp3" = (audio_self_04, );
+				"Meditations/20 minutes - Energy and Focus.mp3" = (audio_focus_05, );
+				"Meditations/20 minutes - Growth and Transformation.mp3" = (audio_growth_05, );
+				"Meditations/20 minutes - Inner peace.mp3" = (audio_peace_05, );
+				"Meditations/20 minutes - Relationships and Connections.mp3" = (audio_rel_05, );
+				"Meditations/20 minutes - Relaxing Sleep .mp3" = (audio_sleep_03, );
+				"Meditations/20 minutes - Self Worth and  Love.mp3" = (audio_self_05, );
+				"Meditations/4 minutes - Growth and Transformation.mp3" = (audio_growth_01, );
+				"Meditations/5 minutes - Energy and Focus.mp3" = (audio_focus_01, );
+				"Meditations/5 minutes - Inner peace.mp3" = (audio_peace_01, );
+				"Meditations/5 minutes - Relationships and Connections.mp3" = (audio_rel_01, );
+				"Meditations/5 minutes - Relaxing Sleep.mp3" = (audio_sleep_01, );
+				"Meditations/5 minutes - Self Worth and  Love.mp3" = (audio_self_01, );
+				"Meditations/7 minutes - Energy and Focus.mp3" = (audio_focus_02, );
+				"Meditations/7 minutes - Growth and Transformation.mp3" = (audio_growth_02, );
+				"Meditations/7 minutes - Inner peace.mp3" = (audio_peace_02, );
+				"Meditations/7 minutes - Relationships and Connections.mp3" = (audio_rel_02, );
+				"Meditations/7 minutes - Self Worth and  Love.mp3" = (audio_self_02, );
+			};
+			membershipExceptions = (
+				Config.xcconfig,
+				Info.plist,
+			);
+			target = 60C341832E78CC8800334DFB /* HealthBeam */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		60C341862E78CC8800334DFB /* HealthBeam */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				60FCF8CA2E8C28BA00BF3EE7 /* Exceptions for "HealthBeam" folder in "HealthBeam" target */,
+			);
+			path = HealthBeam;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		60C341812E78CC8800334DFB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+				60FB63692E7C8072002997F7 /* RevenueCat in Frameworks */,
+				6045734F2F2FFF6E0054584C /* BackgroundAssets.framework in Frameworks */,
+				60B43A362E7DF8C6000E862B /* FirebaseFunctions in Frameworks */,
+				60C343F12E78CE7600334DFB /* FirebaseAuth in Frameworks */,
+				603000472F1036880012D091 /* StoreKit.framework in Frameworks */,
+				60FB636B2E7C8072002997F7 /* RevenueCatUI in Frameworks */,
+				60C343F32E78CE7600334DFB /* FirebaseCore in Frameworks */,
+				60C343F72E78CE7600334DFB /* FirebaseStorage in Frameworks */,
+				60C343F52E78CE7600334DFB /* FirebaseFirestore in Frameworks */,
+			);
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		60C3417B2E78CC8800334DFB = {
+			isa = PBXGroup;
+			children = (
+				60CE40522E95DF0900D40413 /* HealthBeamApp.storekit */,
+				60C341862E78CC8800334DFB /* HealthBeam */,
+				60FB636C2E7C8297002997F7 /* Frameworks */,
+				60C341852E78CC8800334DFB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		60C341852E78CC8800334DFB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				60C341842E78CC8800334DFB /* HealthBeam.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		60FB636C2E7C8297002997F7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6045734D2F2FFF1C0054584C /* BackgroundAssets.framework */,
+				60FB636D2E7C8297002997F7 /* StoreKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		60C341832E78CC8800334DFB /* HealthBeam */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 60C341922E78CC8B00334DFB /* Build configuration list for PBXNativeTarget "HealthBeam" */;
+			buildPhases = (
+				60C341802E78CC8800334DFB /* Sources */,
+				60C341812E78CC8800334DFB /* Frameworks */,
+				60C341822E78CC8800334DFB /* Resources */,
+				60426B442F10126E00CAA50E /* Embed ExtensionKit Extensions */,
+			);
+			buildRules = (
+			);
+			fileSystemSynchronizedGroups = (
+				60C341862E78CC8800334DFB /* HealthBeam */,
+			);
+			name = HealthBeam;
+			packageProductDependencies = (
+				60C343F02E78CE7600334DFB /* FirebaseAuth */,
+				60C343F22E78CE7600334DFB /* FirebaseCore */,
+				60C343F42E78CE7600334DFB /* FirebaseFirestore */,
+				60C343F62E78CE7600334DFB /* FirebaseStorage */,
+				60FB63682E7C8072002997F7 /* RevenueCat */,
+				60FB636A2E7C8072002997F7 /* RevenueCatUI */,
+				60B43A352E7DF8C6000E862B /* FirebaseFunctions */,
+			);
+			productName = HealthBeam;
+			productReference = 60C341842E78CC8800334DFB /* HealthBeam.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		60C3417C2E78CC8800334DFB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				KnownAssetTags = (
+					audio_focus_01,
+					audio_focus_02,
+					audio_focus_03,
+					audio_focus_04,
+					audio_focus_05,
+					audio_growth_01,
+					audio_growth_02,
+					audio_growth_03,
+					audio_growth_04,
+					audio_growth_05,
+					audio_peace_01,
+					audio_peace_02,
+					audio_peace_03,
+					audio_peace_04,
+					audio_peace_05,
+					audio_rel_01,
+					audio_rel_02,
+					audio_rel_03,
+					audio_rel_04,
+					audio_rel_05,
+					audio_self_01,
+					audio_self_02,
+					audio_self_03,
+					audio_self_04,
+					audio_self_05,
+					audio_sleep_01,
+					audio_sleep_02,
+					audio_sleep_03,
+				);
+				LastSwiftUpdateCheck = 2620;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					60C341832E78CC8800334DFB = {
+						CreatedOnToolsVersion = 26.0;
+					};
+				};
+			};
+			buildConfigurationList = 60C3417F2E78CC8800334DFB /* Build configuration list for PBXProject "HealthBeamApp" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 60C3417B2E78CC8800334DFB;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				60C343EF2E78CE7600334DFB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				60FB63672E7C8072002997F7 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */,
+			);
+			preferredProjectObjectVersion = 100;
+			productRefGroup = 60C341852E78CC8800334DFB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				60C341832E78CC8800334DFB /* HealthBeam */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		60C341822E78CC8800334DFB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			files = (
+				60CE40532E95DF0900D40413 /* HealthBeamApp.storekit in Resources */,
+			);
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		60C341802E78CC8800334DFB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		60C341932E78CC8B00334DFB /* Debug configuration for PBXNativeTarget "HealthBeam" */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReferenceAnchor = 60C341862E78CC8800334DFB /* HealthBeam */;
+			baseConfigurationReferenceRelativePath = Config.xcconfig;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_ENTITLEMENTS = HealthBeam/HealthBeamDebug.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = C6V95J69N2;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_RESOURCE_ACCESS_AUDIO_INPUT = YES;
+				ENABLE_RESOURCE_ACCESS_BLUETOOTH = YES;
+				ENABLE_RESOURCE_ACCESS_CAMERA = YES;
+				ENABLE_RESOURCE_ACCESS_LOCATION = YES;
+				ENABLE_RESOURCE_ACCESS_PHOTO_LIBRARY = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = HealthBeam/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "HealthBeamApp ";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "HealthBeam uses Bluetooth to connect with external health monitoring devices like scales or heart rate monitors.";
+				INFOPLIST_KEY_NSCameraUsageDescription = "HealthBeam uses the camera to scan health documents and personalize your user profile.";
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "HealthBeam uses Face ID to provide secure and private access to your personal health measurements.";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "HealthBeam synchronizes with Apple Health to display your activity, sleep, and body measurements in one place.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "HealthBeam uses your input to update your health records and keep your profile consistent across Apple Health.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "HealthBeam tracks your location during workouts to provide accurate maps and distance metrics for your walks.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "HealthBeam uses the microphone to record voice notes about your health symptoms and daily observations.";
+				INFOPLIST_KEY_NSMotionUsageDescription = "HealthBeam monitors motion data to accurately track your daily steps and physical activity levels.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "HealthBeam needs permission to save generated health reports and progress charts directly to your photo library.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "HealthBeam accesses your photos to allow you to upload and attach health-related documents to your entries.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = NO;
+				INFOPLIST_KEY_UIStatusBarHidden = NO;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.5;
+				PRODUCT_BUNDLE_IDENTIFIER = Ahmetfurkanyildirim.HealthBeam;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				REGISTER_APP_GROUPS = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		60C341942E78CC8B00334DFB /* Release configuration for PBXNativeTarget "HealthBeam" */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReferenceAnchor = 60C341862E78CC8800334DFB /* HealthBeam */;
+			baseConfigurationReferenceRelativePath = Config.xcconfig;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_ENTITLEMENTS = HealthBeam/HealthBeam.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = C6V95J69N2;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_RESOURCE_ACCESS_AUDIO_INPUT = YES;
+				ENABLE_RESOURCE_ACCESS_BLUETOOTH = YES;
+				ENABLE_RESOURCE_ACCESS_CAMERA = YES;
+				ENABLE_RESOURCE_ACCESS_LOCATION = YES;
+				ENABLE_RESOURCE_ACCESS_PHOTO_LIBRARY = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = HealthBeam/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "HealthBeamApp ";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "HealthBeam uses Bluetooth to connect with external health monitoring devices like scales or heart rate monitors.";
+				INFOPLIST_KEY_NSCameraUsageDescription = "HealthBeam uses the camera to scan health documents and personalize your user profile.";
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "HealthBeam uses Face ID to provide secure and private access to your personal health measurements.";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "HealthBeam synchronizes with Apple Health to display your activity, sleep, and body measurements in one place.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "HealthBeam uses your input to update your health records and keep your profile consistent across Apple Health.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "HealthBeam tracks your location during workouts to provide accurate maps and distance metrics for your walks.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "HealthBeam uses the microphone to record voice notes about your health symptoms and daily observations.";
+				INFOPLIST_KEY_NSMotionUsageDescription = "HealthBeam monitors motion data to accurately track your daily steps and physical activity levels.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "HealthBeam needs permission to save generated health reports and progress charts directly to your photo library.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "HealthBeam accesses your photos to allow you to upload and attach health-related documents to your entries.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = NO;
+				INFOPLIST_KEY_UIStatusBarHidden = NO;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.5;
+				PRODUCT_BUNDLE_IDENTIFIER = Ahmetfurkanyildirim.HealthBeam;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		60C341952E78CC8B00334DFB /* Debug configuration for PBXProject "HealthBeamApp" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = C6V95J69N2;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		60C341962E78CC8B00334DFB /* Release configuration for PBXProject "HealthBeamApp" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = C6V95J69N2;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_VERSION = 6.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		60C3417F2E78CC8800334DFB /* Build configuration list for PBXProject "HealthBeamApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				60C341952E78CC8B00334DFB /* Debug configuration for PBXProject "HealthBeamApp" */,
+				60C341962E78CC8B00334DFB /* Release configuration for PBXProject "HealthBeamApp" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		60C341922E78CC8B00334DFB /* Build configuration list for PBXNativeTarget "HealthBeam" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				60C341932E78CC8B00334DFB /* Debug configuration for PBXNativeTarget "HealthBeam" */,
+				60C341942E78CC8B00334DFB /* Release configuration for PBXNativeTarget "HealthBeam" */,
+			);
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		60C343EF2E78CE7600334DFB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 12.3.0;
+			};
+		};
+		60FB63672E7C8072002997F7 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/RevenueCat/purchases-ios-spm.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.39.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		60B43A352E7DF8C6000E862B /* FirebaseFunctions */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 60C343EF2E78CE7600334DFB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFunctions;
+		};
+		60C343F02E78CE7600334DFB /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 60C343EF2E78CE7600334DFB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		60C343F22E78CE7600334DFB /* FirebaseCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 60C343EF2E78CE7600334DFB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCore;
+		};
+		60C343F42E78CE7600334DFB /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 60C343EF2E78CE7600334DFB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		60C343F62E78CE7600334DFB /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 60C343EF2E78CE7600334DFB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
+		60FB63682E7C8072002997F7 /* RevenueCat */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 60FB63672E7C8072002997F7 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */;
+			productName = RevenueCat;
+		};
+		60FB636A2E7C8072002997F7 /* RevenueCatUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 60FB63672E7C8072002997F7 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */;
+			productName = RevenueCatUI;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 60C3417C2E78CC8800334DFB /* Project object */;
+}
